@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kraftwerk04-website.vercel.app/sitemap.xml
